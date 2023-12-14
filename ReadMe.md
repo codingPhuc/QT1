@@ -1,7 +1,7 @@
 ##video link 
 https://drive.google.com/drive/folders/1_RCaeltlDGD3dwz-IU7f6m_UkFiR7a-C?usp=drive_link
-
-
+## github link 
+https://github.com/codingPhuc/QT1/tree/new_branch_name
 
 Project Name
 Introduction
