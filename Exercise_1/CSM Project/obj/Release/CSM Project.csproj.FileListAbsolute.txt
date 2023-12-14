@@ -1,0 +1,80 @@
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM Project.csprojAssemblyReference.cache
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.CustomMsgBox.resources
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.LogInForm.resources
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.SMMenu.resources
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.Manager_Menu.resources
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.CarSell.resources
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.SaleManCtrl.resources
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.carCtrl.resources
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.empControl.resources
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.Properties.Resources.resources
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM Project.csproj.GenerateResource.cache
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM Project.csproj.CoreCompileInputs.cache
+D:\Projects\CSM Project\CSM Project\bin\Release\CSM Project.exe.config
+D:\Projects\CSM Project\CSM Project\bin\Release\CSM Project.exe
+D:\Projects\CSM Project\CSM Project\bin\Release\CSM Project.pdb
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM Project.exe
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM Project.pdb
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.Form8.resources
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.Form9.resources
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.Form10.resources
+D:\Projects\CSM Project\CSM Project\obj\Release\CSM_Project.CustomSuccessBox.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\bin\Release\CSM Project.exe.config
+D:\Projects\Car-Showroom-Management-System\CSM Project\bin\Release\CSM Project.exe
+D:\Projects\Car-Showroom-Management-System\CSM Project\bin\Release\CSM Project.pdb
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.csprojAssemblyReference.cache
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.CustomMsgBox.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.CustomSuccessBox.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.LogInForm.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Form10.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.SMMenu.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Manager_Menu.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.CarSell.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.SaleManCtrl.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.carCtrl.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.empControl.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Form8.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Form9.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Properties.Resources.resources
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.csproj.GenerateResource.cache
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.csproj.CoreCompileInputs.cache
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.exe
+D:\Projects\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.pdb
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.csproj.AssemblyReference.cache
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.CustomMsgBox.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.CustomSuccessBox.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.LogInForm.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Form10.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.SMMenu.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Manager_Menu.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.CarSell.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.SaleManCtrl.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.carCtrl.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.empControl.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Form8.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Form9.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Properties.Resources.resources
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.csproj.GenerateResource.cache
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.csproj.CoreCompileInputs.cache
+D:\hk1 năm 3\QT1 Quan\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.pdb
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\bin\Release\CSM Project.exe.config
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\bin\Release\CSM Project.exe
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.csproj.AssemblyReference.cache
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.CustomMsgBox.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.CustomSuccessBox.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.LogInForm.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Form10.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.SMMenu.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Manager_Menu.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.CarSell.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.SaleManCtrl.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.carCtrl.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.empControl.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Form8.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Form9.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM_Project.Properties.Resources.resources
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.csproj.GenerateResource.cache
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.csproj.CoreCompileInputs.cache
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.exe
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\obj\Release\CSM Project.pdb
+D:\hk1 năm 3\Car-Showroom-Management-System\CSM Project\bin\Release\CSM Project.pdb
