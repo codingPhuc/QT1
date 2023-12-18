@@ -530,3 +530,6 @@ D:\hk1 năm 3\QT1 Quan\dotnet_proccess1\WebApplication1\bin\Debug\net7.0\Microso
 D:\hk1 năm 3\QT1 Quan\dotnet_proccess1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 D:\hk1 năm 3\QT1 Quan\dotnet_proccess1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\hk1 năm 3\QT1 Quan\dotnet_proccess1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+D:\hk1 năm 3\QT1 Nguyen Hoang Phuc\Exercise_2\obj\Debug\net7.0\WebApplication1.dll
+D:\hk1 năm 3\QT1 Nguyen Hoang Phuc\Exercise_2\obj\Debug\net7.0\refint\WebApplication1.dll
+D:\hk1 năm 3\QT1 Nguyen Hoang Phuc\Exercise_2\obj\Debug\net7.0\WebApplication1.pdb
